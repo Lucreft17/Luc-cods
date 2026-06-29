@@ -1,0 +1,7 @@
+AS versão são classificadas nos seguinte:
+
+- Ver1: Primeira versão funcional, e melhor classificada ate o momento.
+
+- Ver2: Versão com implementação de banco de dados, imperfeita pois durante a implementação as paginas foram modificadas e corrompidas.
+
+- Ver3: Ultima versão ate o momento, e no inico do estagio de tentativa de concertar as paginas, porem ainda um fracaso.
